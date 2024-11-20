@@ -5,7 +5,7 @@
 
 # Sylvixor Landing Page
 
-This project is built with [Starlight](https://github.com/withastro/starlight) documentation framework on top of [Astro](https://astro.build/) web framework.
+This project is built with the [Astro](https://astro.build/) web framework.
 
 ## Table of Contents
 
@@ -84,5 +84,3 @@ SyLanding © 2024 by Sylvixor is licensed under CC BY-NC-SA 4.0
 Special thanks to:
 
 - The Astro team for developing such a great framework.
-- All contributors of the [Starlight](https://github.com/withastro/starlight) framework.
-- All contributors and libraries used in this project.
